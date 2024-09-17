@@ -1,0 +1,85 @@
+---
+title: "Investing Metrics"
+author: "DK"
+date: "2024-09-02"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+When investing in stocks, it's crucial to evaluate a range of financial metrics to make informed decisions. These metrics help you assess a company's financial health, profitability, growth potential, and overall value. Here are some of the most important financial metrics to consider:
+
+### 1. **Earnings Per Share (EPS)**
+
+ - **Definition**: EPS measures the portion of a company's profit allocated to each outstanding share of common stock. It's a key indicator of profitability.
+
+ - **Calculation**: $EPS = \frac{(\text{Net Income} - \text{Dividends on Preferred Stock})}{\text{Average Outstanding Shares}}$
+
+ - **Significance**: Higher EPS indicates greater profitability. Comparing EPS over time helps investors gauge a company's earnings growth.
+
+### 2. **Price-to-Earnings Ratio (P/E Ratio)**
+
+ - **Definition**: The P/E ratio compares a company’s stock price to its earnings per share, reflecting how much investors are willing to pay for a dollar of earnings.
+
+ - **Calculation**: $\text{P/E Ratio} = \frac{\text{Share Price}}{\text{EPS}}$
+
+ - **Significance**: A high P/E ratio may suggest that a stock is overvalued, or it could indicate expectations of future growth. A low P/E ratio might indicate undervaluation or a lack of growth potential.
+
+### 3. **Price-to-Book Ratio (P/B Ratio)**
+
+ - **Definition**: The P/B ratio compares a company's market value to its book value (assets minus liabilities).
+
+ - **Calculation**: \\( \\text{P/B Ratio} = \\frac{\\text{Market Price per Share}}{\\text{Book Value per Share}} \\)
+
+ - **Significance**: A P/B ratio below 1 can indicate a potentially undervalued stock, while a higher ratio may suggest overvaluation.
+
+### 4. **Dividend Yield**
+
+ - **Definition**: Dividend yield shows the percentage of a company's share price that it pays out in dividends each year.
+
+ - **Calculation**: \\( \\text{Dividend Yield} = \\frac{\\text{Annual Dividends per Share}}{\\text{Share Price}} \\)
+
+ - **Significance**: A high dividend yield might be attractive to income-focused investors, but it's essential to ensure the dividend is sustainable.
+
+### 5. **Return on Equity (ROE)**
+
+ - **Definition**: ROE measures a company’s profitability by revealing how much profit it generates with the money shareholders have invested.
+
+ - **Calculation**: \\( \\text{ROE} = \\frac{\\text{Net Income}}{\\text{Shareholder’s Equity}} \\)
+
+ - **Significance**: A higher ROE indicates efficient use of equity capital. It’s a sign of strong management and a profitable business model.
+
+### 6. **Debt-to-Equity Ratio (D/E Ratio)**
+
+ - **Definition**: The D/E ratio compares a company’s total liabilities to its shareholder equity, indicating how much debt is used to finance the company.
+
+ - **Calculation**: \\( \\text{D/E Ratio} = \\frac{\\text{Total Debt}}{\\text{Total Equity}} \\)
+
+ - **Significance**: A higher D/E ratio suggests a company is heavily financed by debt, which can be risky if the company faces financial difficulties.
+
+### 7. **Free Cash Flow (FCF)**
+
+ - **Definition**: FCF represents the cash a company generates after accounting for capital expenditures needed to maintain or expand its asset base.
+
+ - **Calculation**: \\( \\text{FCF} = \\text{Operating Cash Flow} - \\text{Capital Expenditures} \\)
+
+ - **Significance**: Positive and growing free cash flow is a good indicator of a company's financial health and its ability to generate cash that can be used for dividends, buybacks, or reinvestment.
+
+### 8. **Revenue Growth**
+
+ - **Definition**: Revenue growth measures the increase in a company’s sales over a specific period.
+
+ - **Calculation**: \\( \\text{Revenue Growth Rate} = \\frac{\\text{Current Period Revenue} - \\text{Previous Period Revenue}}{\\text{Previous Period Revenue}} \\times 100\\% \\)
+
+ - **Significance**: Consistent revenue growth is often a sign of a company’s expanding market presence and success in attracting customers.
+
+### 9. **Operating Margin**
+
+ - **Definition**: Operating margin shows the percentage of revenue that remains after paying for variable costs of production, such as wages and raw materials.
+
+ - **Calculation**: \\( \\text{Operating Margin} = \\frac{\\text{Operating Income}}{\\text{Revenue}} \\times 100\\% \\)
+
+ - **Significance**: A higher operating margin indicates a more efficiently managed company with better control over its costs.
+
+### 10. **Current Ratio**
+
+ - **Definition**: The current ratio measures a company’s ability to pay short-term obligations with its current assets.
